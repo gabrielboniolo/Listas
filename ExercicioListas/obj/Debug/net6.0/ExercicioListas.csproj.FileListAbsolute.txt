@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\bin\Debug\net6.0\ExercicioListas.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\refint\ExercicioListas.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ExercicioListas.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Estudos\Programação\Udemy\C#  Udemy\C# POO\Repositórios\Listas\ExercicioListas\obj\Debug\net6.0\ref\ExercicioListas.dll
